@@ -1,0 +1,56 @@
+[
+  {
+    "id": "demo-async-standup-a",
+    "file": "team-standup-roundup.md",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Team shipped the no-PAT Pages runtime rollout, fixed stale deploy behavior, and identified one blocker around seeded demo publishing for legacy repos. Next steps are finishing the remaining app seeds and tightening the shared runtime around artifact loading.",
+    "tags": [
+      "shipping",
+      "pages",
+      "runtime"
+    ],
+    "flagged": true,
+    "demo": true,
+    "searchSummary": "standup blockers, ownership, async updates",
+    "whyItMatters": "One standup becomes a searchable team memory.",
+    "searchIntro": "One standup becomes a searchable team memory. Search across the seeded records to feel that inside the app.",
+    "searchOutputs": []
+  },
+  {
+    "id": "demo-async-standup-b",
+    "file": "Related team-standup-roundup.md",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "A second seeded record extends the same workflow so in-app search and reuse are visible instead of theoretical.",
+    "tags": [
+      "shipping",
+      "pages",
+      "related"
+    ],
+    "flagged": false,
+    "demo": true,
+    "searchSummary": "related signals, continuity, reuse",
+    "whyItMatters": "One standup becomes a searchable team memory.",
+    "searchIntro": "One standup becomes a searchable team memory. Search across the seeded records to feel that inside the app.",
+    "searchOutputs": []
+  },
+  {
+    "id": "demo-async-standup-c",
+    "file": "Follow-up team-standup-roundup.md",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "A third seeded record shows how this app can connect follow-up work, recurring themes, and downstream use without leaving the demo experience.",
+    "tags": [
+      "shipping",
+      "pages",
+      "follow-up"
+    ],
+    "flagged": false,
+    "demo": true,
+    "searchSummary": "follow-up, memory, downstream action",
+    "whyItMatters": "One standup becomes a searchable team memory.",
+    "searchIntro": "One standup becomes a searchable team memory. Search across the seeded records to feel that inside the app.",
+    "searchOutputs": []
+  }
+]
