@@ -1,9 +1,9 @@
 {
   "id": "demo-async-standup",
   "file": "team-standup-roundup.md",
-  "time": "Demo dataset",
+  "time": "Reference corpus",
   "status": "complete",
-  "brief": "Team shipped the no-PAT Pages runtime rollout, fixed stale deploy behavior, and identified one blocker around seeded demo publishing for legacy repos. Next steps are finishing the remaining app seeds and tightening the shared runtime around artifact loading.",
+  "brief": "Team shipped the no-PAT Pages runtime rollout, fixed stale deploy behavior, and identified one blocker around reference demo publishing for legacy repos. Next steps are finishing the remaining app seeds and tightening the shared runtime around artifact loading.",
   "tags": ["shipping", "pages", "runtime"],
   "flagged": true,
   "demo": true
