@@ -1,0 +1,16 @@
+{
+  "title": "async-standup \u2014 lyftNAIuoBs",
+  "public_url": "https://www.youtube.com/watch?v=lyftNAIuoBs",
+  "source": {
+    "title": "The Daily Standup - Be An Inspirational Agile Leader - A guide to inspirational success",
+    "channel": "AgileDad",
+    "duration_seconds": 713
+  },
+  "transcribe": {
+    "avg_confidence": 0.8841,
+    "rtf": 0.04,
+    "segments_total": 158,
+    "segments_hallucinated": 41
+  },
+  "retained_media": false
+}

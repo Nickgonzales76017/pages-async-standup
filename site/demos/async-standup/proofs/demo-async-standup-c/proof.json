@@ -1,0 +1,16 @@
+{
+  "title": "async-standup \u2014 qYNl9bpw9CI",
+  "public_url": "https://www.youtube.com/watch?v=qYNl9bpw9CI",
+  "source": {
+    "title": "5 Minute Agile :: The Daily Standup 3 Questions :: Version 1.0",
+    "channel": "Jose Anes",
+    "duration_seconds": 174
+  },
+  "transcribe": {
+    "avg_confidence": 0.8822,
+    "rtf": 0.04,
+    "segments_total": 29,
+    "segments_hallucinated": 6
+  },
+  "retained_media": false
+}

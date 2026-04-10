@@ -1,56 +1,110 @@
 [
   {
-    "id": "demo-async-standup-a",
-    "file": "team-standup-roundup.md",
-    "time": "Reference corpus",
+    "id": "async-voice-standup-system",
+    "file": "How To Replace Wasteful Standup Meetings With Async Voice Messages (Complete System)",
+    "time": "Public origin \u00b7 90s",
     "status": "complete",
-    "brief": "Team shipped the no-PAT Pages runtime rollout, fixed stale deploy behavior, and identified one blocker around reference demo publishing for legacy repos. Next steps are finishing the remaining app seeds and tightening the shared runtime around artifact loading.",
+    "brief": "If you think your company's stand-ups are productive, you're the problem and I'm  going to show you why. You really closed the loop on what everyone has been about without everyone sitting on a meeting  and being mad about it for good reasons. Team of 10 people, all remote and the owner had no visibility on whatever people were doing. If you don't complete this correctly, then I'll come back to you.",
     "tags": [
-      "shipping",
-      "pages",
-      "runtime"
+      "standup",
+      "async",
+      "remote",
+      "daily",
+      "team"
     ],
     "flagged": true,
     "demo": true,
-    "searchSummary": "standup blockers, ownership, async updates",
-    "whyItMatters": "One standup becomes a searchable team memory.",
-    "searchIntro": "One standup becomes a searchable team memory. Search across the reference records to feel that inside the app.",
-    "searchOutputs": []
+    "sourceUrl": "https://www.youtube.com/watch?v=uKEPFfidAJY",
+    "sourceLabel": "Watch original public video",
+    "sourceTitle": "How To Replace Wasteful Standup Meetings With Async Voice Messages (Complete System)",
+    "publisher": "MIND THE FLO",
+    "license": "Public YouTube video processed transiently. Bonfyre retained only derived artifacts.",
+    "sourceCopy": "Source: MIND THE FLO on YouTube. Bonfyre downloaded, transcribed, and deleted the media. Only the transcript, brief, and proof remain.",
+    "whyItMatters": "Team updates become a searchable standup archive \u2014 blockers, decisions, and progress tracked across time.",
+    "searchSummary": "standup, async, remote",
+    "searchIntro": "Search across the async standup records to see how Bonfyre connects related content from different sources.",
+    "outputs": [
+      "standup brief",
+      "clean transcript",
+      "proof bundle",
+      "search across standups"
+    ],
+    "outputNotes": {
+      "standup brief": "Bonfyre extracted the key points from the source audio into a structured standup brief.",
+      "clean transcript": "The raw transcript cleaned of filler words, false starts, and artifacts.",
+      "proof bundle": "Full provenance chain: source URL, transcription confidence, processing recipe, and quality flags."
+    },
+    "outputLinks": {
+      "brief": {
+        "href": "demos/async-standup/proofs/async-voice-standup-system/brief.md",
+        "label": "Open brief"
+      },
+      "clean transcript": {
+        "href": "demos/async-standup/proofs/async-voice-standup-system/clean.txt",
+        "label": "Open clean transcript"
+      },
+      "proof bundle": {
+        "href": "demos/async-standup/proofs/async-voice-standup-system/proof.json",
+        "label": "Open proof JSON"
+      }
+    },
+    "searchOutputs": [
+      "search across records"
+    ],
+    "proofPath": "demos/async-standup/proofs/async-voice-standup-system"
   },
   {
-    "id": "demo-async-standup-b",
-    "file": "Related team-standup-roundup.md",
-    "time": "Reference corpus",
+    "id": "effective-daily-scrum",
+    "file": "How to Facilitate an Effective Daily Scrum, Not a Status Meeting",
+    "time": "Public origin \u00b7 306s",
     "status": "complete",
-    "brief": "A second reference record extends the same workflow so in-app search and reuse are visible instead of theoretical.",
+    "brief": "For most teams, I found a better approach  is to go backlog item by backlog item. Today I'm going to tell you  how to get team members more engaged in their daily scrums,  how to learn more about each other's work,  and how to more easily notice  if a product backlog item  is going off the rails and needs attention. If you run the meeting item by item,  and team members give updates on all 10 items in the sprint,  that's a problem. Fourth, the number of people who talk about any item  indicates the degree to which team members are collaborating.",
     "tags": [
-      "shipping",
-      "pages",
-      "related"
+      "standup",
+      "async",
+      "remote",
+      "daily",
+      "team"
     ],
     "flagged": false,
     "demo": true,
-    "searchSummary": "related signals, continuity, reuse",
-    "whyItMatters": "One standup becomes a searchable team memory.",
-    "searchIntro": "One standup becomes a searchable team memory. Search across the reference records to feel that inside the app.",
-    "searchOutputs": []
-  },
-  {
-    "id": "demo-async-standup-c",
-    "file": "Follow-up team-standup-roundup.md",
-    "time": "Reference corpus",
-    "status": "complete",
-    "brief": "A third reference record shows how this app can connect follow-up work, recurring themes, and downstream use without leaving the demo experience.",
-    "tags": [
-      "shipping",
-      "pages",
-      "follow-up"
+    "sourceUrl": "https://www.youtube.com/watch?v=MZdK4SX0mfI",
+    "sourceLabel": "Watch original public video",
+    "sourceTitle": "How to Facilitate an Effective Daily Scrum, Not a Status Meeting",
+    "publisher": "Mountain Goat Software",
+    "license": "Public YouTube video processed transiently. Bonfyre retained only derived artifacts.",
+    "sourceCopy": "Source: Mountain Goat Software on YouTube. Bonfyre downloaded, transcribed, and deleted the media. Only the transcript, brief, and proof remain.",
+    "whyItMatters": "Team updates become a searchable standup archive \u2014 blockers, decisions, and progress tracked across time.",
+    "searchSummary": "standup, async, remote",
+    "searchIntro": "Search across the async standup records to see how Bonfyre connects related content from different sources.",
+    "outputs": [
+      "standup brief",
+      "clean transcript",
+      "proof bundle",
+      "search across standups"
     ],
-    "flagged": false,
-    "demo": true,
-    "searchSummary": "follow-up, memory, downstream action",
-    "whyItMatters": "One standup becomes a searchable team memory.",
-    "searchIntro": "One standup becomes a searchable team memory. Search across the reference records to feel that inside the app.",
-    "searchOutputs": []
+    "outputNotes": {
+      "standup brief": "Bonfyre extracted the key points from the source audio into a structured standup brief.",
+      "clean transcript": "The raw transcript cleaned of filler words, false starts, and artifacts.",
+      "proof bundle": "Full provenance chain: source URL, transcription confidence, processing recipe, and quality flags."
+    },
+    "outputLinks": {
+      "brief": {
+        "href": "demos/async-standup/proofs/effective-daily-scrum/brief.md",
+        "label": "Open brief"
+      },
+      "clean transcript": {
+        "href": "demos/async-standup/proofs/effective-daily-scrum/clean.txt",
+        "label": "Open clean transcript"
+      },
+      "proof bundle": {
+        "href": "demos/async-standup/proofs/effective-daily-scrum/proof.json",
+        "label": "Open proof JSON"
+      }
+    },
+    "searchOutputs": [
+      "search across records"
+    ],
+    "proofPath": "demos/async-standup/proofs/effective-daily-scrum"
   }
 ]

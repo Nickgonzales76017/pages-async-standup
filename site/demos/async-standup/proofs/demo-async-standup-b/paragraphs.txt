@@ -1,0 +1,51 @@
+>> Good morning, it's Lee Henson,. It's time for today's episode of The Daily Stand-Up. So without any further ado, let's get started. It's Thursday. We're close to another weekend. I know I'm excited and I hope you are too. Many, many best wishes to all of you out there who are going to be.
+
+Celebrating the weekend with friends and family. Caused me to recollect some of my thoughts,. Because she calls out, or I'm sorry, Adrian calls out,. And commentator in inspirational leadership. He's been doing this for a long time. And the motivation and inspirational things that he talks about. To how it could be applied to Agile and Scrum in this community.
+
+And this article was originally based on ideas from the 2009 book, Start With Why. But it really is a good argument for just about everything we do. It's going to cause us to do a little bit deeper analysis to figure out. Exactly why we're doing things and why behavior as a certain way,. The truth is inspirational leaders, they haven't communicated a clear sense of why they do things.
+
+But even though in Agile, we always say it's critical to understand the how and the what. It should always be guided by this why, this why should be leading you down to path. Or by explaining the why and the way it's difficult for them to understand. So my whole thing is, you know, I think that you have to use real world examples. In order to really get your head around this. And they bring up a couple of examples in the article, so here we go. The first example I brought up was Apple.
+
+Simon argues that Apple always challenges the status quo when they're very good. They have a strong and well-communicated why. They want everything to inspire people to be better and to use their products more seamlessly and efficiently. And, you know, that doesn't necessarily mean that it does this,.
+
+But it certainly does inspire people to hit really long lines for hours outside of Apple stores. To get the latest version of the Apple product that they're about to release. But the truth is, the people who are building a product service. Other electronics companies focus on the what, the product, the features, the price, and the quality,. You know, and you can basically say, this is the whole Android argument, right? While they may be successful, without the strong sense of why, they're just not inspirational. You know, I don't know that I agree or disagree, but I am addicted to Apple products, so that might be your hint.
+
+The other example he gave was a really one of one of one of my heart. He talks about Dr. Martin Luther King, who inspired a world with his" I Have a Dream" speech. Yeah, I love this quote. I'm going to add to it. It didn't say I have 173 slide PowerPoint deck. Cindy pointed out that Dr.
+
+King was surrounded by people to help him with the how and the what. Why isn't about making money? It's an outcome. It's a focus on outcome. You know, the truth is, most things that we work on, most projects,. I can't tell you how many times I ask why. And to executive leadership, to product owners, to whoever.
+
+If it's focused on centralizing sales revenue or increasing productivity,. Reducing time to market, or reducing operational costs,. And that's not exactly inspirational, unless you're the person who's going home with paycheck, right? So when you're thinking about goals and scrum, you know, it's always been a motivational and. They've incorporated a sprint goal in the concept of product goals. And I think that, you know, conventional wisdom teaches that. That makes perfect sense, but the more quantifiable the goal is,.
+
+The less inspirational it becomes. You know, and I don't want to dog on anybody here, but they bring up a couple of different. People who, who really focus on, you know, quantity numbers, those kinds of things. And I guess that that's the product or service you're selling, and that's completely appropriate.
+
+But I think it's important for you to understand that if you're going to build trust and build. Loyalty and you want to inspire people and uplift them, that you have to have a different. Plan that focuses on the why more so than the what you're going to do. You know, there's the whole concept about the product backlog as well, where we take. Things from idea into what we're going to do into a doing phase and then into done. And I think that when we think about a strong why statement for our product backlog goal,. This could be a really powerful tool to drive development, ordering or finding a backlog.
+
+You know, if you took a simple backlog item and said, you know, we want to ensure that. Call volumes. It's a very common requirement in that world. But is this how you would. Want to be treated? Is this how you want to treat your friends, right? Directly if they'd like.
+
+This way, based on what they feel more comfortable with,. They have the opportunity to do both. And that's the difference between the why,. Right? And just the what. And I think that if you capture those and you understand,. Then it's going to make a lot more sense.
+
+It's just going to drive you in a direction. To understand the purpose, to be more persona driven, to be more behavioral driven. And I think that that's incredibly important. Even at sprint planning,. You know, I can't help but remember the early days of sprint planning,. Circa early 2000s, when outsourcing to people was the new big thing, you know,. Outsourcing to Andy, outsourcing to wherever.
+
+And anyone with any kind of reasonable skills. Could convert, you know, specifications documented in a line to go. It didn't matter. Who they were, where they were, or what time is underwear in. They should just be able to do. It cost for people locally.
+
+So during the following years, all these lines of code were written,. My hundreds of thousands of offshore developers, who hopefully had some idea of what they were. More disconnected from where they should have been. And you know, it's interesting,. Because if you contrast this with what scrum is intended to do, it often required you to. Get the team together at sprint planning, and gain an understanding of the why they're doing. The work they're about to do, so that they can set their goal and be in line with what the.
+
+But the 2020 guy actually has three sections on sprint planning. One that talks about why. The sprint is valuable, one that talks about what can be done within the sprint,. And one that talks about how will the chosen work get done. When somebody asked Jeff about. This, Jeff Sutherland, he said, discussion of the why gives the scrum team the context that. May otherwise they've been lacking.
+
+We found that scrum teams who understand the intent of the. Product owner deliver better results and higher quality. The scrum guy is now encouraging you. To lead with why.
+
+So there you have it. If you lead with a why goal, it's going to be a lot. Step by step what to do to deliver projects within a scrum framework, which makes sense. That's what it's designed for. What it doesn't mention is that short script of. Guide is built on decades of incredible research, inspirational writing, groundbreaking ideas. The guide and create a guide to the way we do things, almost like the book of life,.
+
+And explain not just what, but why we're doing it. I think it homes in on those things that are. Want to inspire people. I think some people in a technology sector, especially, and in. Really didn't understand, right? And whenever you work with a brand new team or brand new group,. You know, it's good to make it clear within from the outset that you're the technical experts,.
+
+And I'm not a coder. I'm not a programmer, per se. I've never worked as a developer,. And all of you know, way more about writing code than I do. Now, in my case, I have a little. Bit of a technical background, but not nearly as much as these other people do.
+
+But the theme. Continues throughout the project. You know, can you dumb it down a bit? You know, remember who. You're talking to? Or, well, even I understand that, you know, instead of bluffing your way. It's good to express that the team has a sense of mastery and that you trust their.
+
+Skills and acknowledge your skillsets and how are they studied to get to where they are. So I guess in a nutshell, if you want to have a really inspirational agile transformation,. You need to have the desire to increase productivity, or at least not be left behind by the competitors. We're going to be benefiting from productivity gains due to their increased agility.
+
+So in. Order to do that, you need to figure out how you are going to transition from this hard core. Focus on output to a great focus on outcome. You know, even though to leadership, what and. How statements are going to be quite convincing, you can still deliver incrementally,. Smaller sets of value they get, really good use, that makes sense.
+
+But you also can start. Wanted a better blog post I've read recently. If you have a topic that you'd like to discuss. On the daily stand-up podcast, we would love to hear from you. Go ahead and reach out to us. You can reach out to us at learnmornadledad. Com.
+
+We'd love to talk about whatever is important. To you and help guide you on your way. Until next time, we encourage you to stay healthy,. Stay well, and stay agile, my friends. You take care.

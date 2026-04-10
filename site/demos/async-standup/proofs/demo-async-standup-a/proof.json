@@ -1,0 +1,16 @@
+{
+  "title": "async-standup \u2014 9IqbMERRIME",
+  "public_url": "https://www.youtube.com/watch?v=9IqbMERRIME",
+  "source": {
+    "title": "My 10 Favorite Team Meeting Activities to Transform Boring Meetings",
+    "channel": "Vanessa Van Edwards",
+    "duration_seconds": 254
+  },
+  "transcribe": {
+    "avg_confidence": 0.936,
+    "rtf": 0.04,
+    "segments_total": 122,
+    "segments_hallucinated": 33
+  },
+  "retained_media": false
+}

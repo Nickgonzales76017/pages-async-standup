@@ -1,0 +1,20 @@
+# How To Replace Wasteful Standup Meetings With Async Voice Messages (Complete System)
+
+## Summary
+- If you think your company's stand-ups are productive, you're the problem and I'm  going to show you why.
+- You really closed the loop on what everyone has been about without everyone sitting on a meeting  and being mad about it for good reasons.
+- Team of 10 people, all remote and the owner had no visibility on whatever people were doing.
+- If you don't complete this correctly, then I'll come back to you.
+
+## Action Items
+- We just set up notice to send a reminder every Monday at 9am to everyone in the team to record  voice message with those things.
+- At the end of the day, we set up another automation for the owner that create a voice message with  a summary of everything that the team has been about, what's the current dynamic and so on,  and they received this directly on their messaging app along with a draft to send to the whole team.
+- One of the use cases that we built for a client just last week was they wanted to create weekly  stand-up meetings that are done purely synchronously.
+
+## Deep Summary
+- We just set up notice to send a reminder every Monday at 9am to everyone in the team to record  voice message with those things.
+- At the end of the day, we set up another automation for the owner that create a voice message with  a summary of everything that the team has been about, what's the current dynamic and so on,  and they received this directly on their messaging app along with a draft to send to the whole team.
+- One of the use cases that we built for a client just last week was they wanted to create weekly  stand-up meetings that are done purely synchronously.
+
+## Transcript
+If you think your company's stand-ups are productive, you're the problem and I'm  going to show you why. One of the use cases that we built for a client just last week was they wanted to create weekly  stand-up meetings that are done purely synchronously. Team of 10 people, all remote and the owner had no visibility on whatever people were doing. So we created a very simple workflow, it's a super-simple information behind it, it's very  simple to set up also in notion, just a database with what's the risk for the week, what's the  blocker, what's the win of last week and what's the priorities for this week and who's completed  that daily stand-up and the current week that it's been completed for. We just set up notice to send a reminder every Monday at 9am to everyone in the team to record  voice message with those things. If you don't complete this correctly, then I'll come back to you. At the end of the day, we set up another automation for the owner that create a voice message with  a summary of everything that the team has been about, what's the current dynamic and so on,  and they received this directly on their messaging app along with a draft to send to the whole team. You really closed the loop on what everyone has been about without everyone sitting on a meeting  and being mad about it for good reasons.

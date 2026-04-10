@@ -1,0 +1,17 @@
+{
+  "title": "How To Replace Wasteful Standup Meetings With Async Voice Messages (Complete System)",
+  "public_url": "https://www.youtube.com/watch?v=uKEPFfidAJY",
+  "source": {
+    "title": "How To Replace Wasteful Standup Meetings With Async Voice Messages (Complete System)",
+    "channel": "MIND THE FLO",
+    "duration_seconds": 90
+  },
+  "transcribe": {
+    "avg_confidence": 0.8836,
+    "avg_logprob": -0.5,
+    "rtf": 0.0411,
+    "segments_total": 17,
+    "segments_hallucinated": 0
+  },
+  "retained_media": false
+}
